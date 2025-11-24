@@ -1,0 +1,5 @@
+simple-salesforce
+fuzzywuzzy
+python-Levenshtein
+pandas
+python-dotenv
